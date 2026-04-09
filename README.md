@@ -18,7 +18,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 A React-based web application that allows citizens to report civic issues (like garbage, roads, water problems) and helps authorities manage and resolve them efficiently.
 
----
+
 
 ## ✨ Features
 
@@ -30,7 +30,6 @@ A React-based web application that allows citizens to report civic issues (like 
 - 🖼️ Image upload for complaints  
 - 📍 Location-based issue reporting (optional)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -39,19 +38,16 @@ A React-based web application that allows citizens to report civic issues (like 
 - CSS
 - Vite
 
----
 
 ## 🌐 Live Demo
 
 Coming soon 🚀
 
----
 
 ## 🎯 Purpose
 
 This project is designed to improve communication between citizens and local authorities by providing a digital platform to report and track civic issues efficiently.
 
----
 
 ## 🧠 Key Concepts Used
 
