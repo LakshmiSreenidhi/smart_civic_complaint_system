@@ -41,7 +41,7 @@ A React-based web application that allows citizens to report civic issues (like 
 
 ## 🌐 Live Demo
 
-https://vercel.com/lakshmi-sreenidhi/smart-civic-complaint-system
+https://smart-civic-complaint-system-phi.vercel.app
 
 
 ##  Purpose
