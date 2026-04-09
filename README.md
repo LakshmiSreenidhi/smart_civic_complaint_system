@@ -14,3 +14,54 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🚨 Smart Civic Complaint System
+
+A React-based web application that allows citizens to report civic issues (like garbage, roads, water problems) and helps authorities manage and resolve them efficiently.
+
+---
+
+## ✨ Features
+
+- 📌 Complaint registration system  
+- 🗂️ Categorization of issues (road, water, sanitation, etc.)  
+- 🔍 Search and filter complaints  
+- 📊 Status tracking (pending/resolved)  
+- 👤 Basic user interaction system  
+- 🖼️ Image upload for complaints  
+- 📍 Location-based issue reporting (optional)
+
+---
+
+## 🛠️ Tech Stack
+
+- React (useState, components)
+- JavaScript (map, filter)
+- CSS
+- Vite
+
+---
+
+## 🌐 Live Demo
+
+Coming soon 🚀
+
+---
+
+## 🎯 Purpose
+
+This project is designed to improve communication between citizens and local authorities by providing a digital platform to report and track civic issues efficiently.
+
+---
+
+## 🧠 Key Concepts Used
+
+- State management using useState  
+- Dynamic rendering using map()  
+- Filtering logic using filter()  
+- Component-based architecture  
+
+---
+
+## 👩‍💻 Author
+
+Lakshmi Sreenidhi
